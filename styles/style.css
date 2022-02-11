@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    
+}
+
+.active:hover{
+    color: aliceblue;
+}
+
+#menuitem{
+    border: 1px solid lightblue;
+    margin: 0 auto;
+    padding: 2px;
+    background-color: lightblue;
+
+}
+
+body{
+    background-image: url();
+}
